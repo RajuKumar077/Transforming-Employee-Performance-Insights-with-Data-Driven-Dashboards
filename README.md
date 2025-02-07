@@ -34,8 +34,6 @@ Businesses thrive on **performance optimization**. This tool bridges the gap bet
 
 👨‍💻 **Built With:**  
 🔹 Tableau for interactive dashboards  
-🔹 Python for data preprocessing & analytics  
-🔹 SQL for structured data management  
 
 ---
 
