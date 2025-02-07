@@ -1,0 +1,2 @@
+# Transforming-Employee-Performance-Insights-with-Data-Driven-Dashboards
+Dynamic Performance Scorecard is a Tableau-powered interactive dashboard designed to evaluate and visualize employee performance metrics seamlessly. This tool enables HR professionals, managers, and business leaders to **analyze workforce efficiency, identify top performers, and optimize decision-making using data-driven insights
