@@ -5,6 +5,9 @@
 🔍 **About the Project:**  
 The **Dynamic Performance Scorecard** is a **Tableau-powered** interactive dashboard designed to evaluate and visualize employee performance metrics seamlessly. This tool enables HR professionals, managers, and business leaders to **analyze workforce efficiency, identify top performers, and optimize decision-making using data-driven insights**.  
 
+🔗 **Explore the Interactive Dashboard NOW:**  
+👉 **[Employee Performance Dashboard](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)**  
+
 ---
 
 ## **⚡ Key Features:**  
@@ -17,12 +20,12 @@ The **Dynamic Performance Scorecard** is a **Tableau-powered** interactive dashb
 ---
 
 ## **📊 Visuals & KPIs Tracked:**  
-🔹 **Performance Score by Department** – Identify high-performing teams.  
-🔹 **Overtime vs. Work Hours (Filtered by Gender)** – Assess workload balance.  
-🔹 **Employee Distribution by Job Title** – Understand workforce composition.  
-🔹 **Average Salary by Education Level** – Analyze salary trends vs. qualifications.  
-🔹 **Performance Trends Over Time** – Detect performance shifts.  
-🔹 **Promotions vs. Years at Company** – Track career growth dynamics.  
+🔹 **[Performance Score by Department](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)** – Identify high-performing teams.  
+🔹 **[Overtime vs. Work Hours (Filtered by Gender)](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)** – Assess workload balance.  
+🔹 **[Employee Distribution by Job Title](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)** – Understand workforce composition.  
+🔹 **[Average Salary by Education Level](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)** – Analyze salary trends vs. qualifications.  
+🔹 **[Performance Trends Over Time](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)** – Detect performance shifts.  
+🔹 **[Promotions vs. Years at Company](https://public.tableau.com/app/profile/raju.kumar1278/viz/EmployeePerformanceAndWorkforceTrends/EmployeePerformanceDashboard1)** – Track career growth dynamics.  
 
 ---
 
@@ -31,5 +34,8 @@ Businesses thrive on **performance optimization**. This tool bridges the gap bet
 
 👨‍💻 **Built With:**  
 🔹 Tableau for interactive dashboards  
+🔹 Python for data preprocessing & analytics  
+🔹 SQL for structured data management  
 
+---
 
